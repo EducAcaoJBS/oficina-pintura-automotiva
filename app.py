@@ -24,9 +24,9 @@ st.set_page_config(
 UPLOAD_DIR = "uploads/portfolio"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
-WHATSAPP_NUMERO = "5581999999999"  # TODO: alterar para o número real
-INSTAGRAM_URL = "https://instagram.com/suaoficina"  # TODO: alterar
-ADMIN_SENHA = "admin123"  # TODO: alterar / mover para variável de ambiente
+WHATSAPP_NUMERO = "5581920027425"  
+INSTAGRAM_URL = "https://www.instagram.com/luisfernandomadureira83
+ADMIN_SENHA = "admin176"  
 
 db.init_db()
 st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
